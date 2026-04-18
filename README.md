@@ -8,3 +8,8 @@ I am a third-year undergraduate student.
 -How to create a repository
 -How to make commits
 -How to use pull requests
+
+## Weekly Study Plan
+- Monday: read lecture notes
+- Wednesday: review examples
+- Friday: update GitHub repo
