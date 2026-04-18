@@ -8,8 +8,10 @@ I am a third-year undergraduate student.
 
 ## What I Want to Learn
 
-\-How to create a repository
+-How to create a repository
+
 -How to make commits
+
 -How to use pull requests
 
 ## Weekly Study Plan
@@ -18,11 +20,11 @@ I am a third-year undergraduate student.
 * Wednesday: review examples
 * Friday: update GitHub repo
 
-\## Personal Information
+## Personal Information
 
-\- Name: Wang Zuowei
+- Name: Wang Zuowei
 
-\- Major: Statistics
+- Major: Statistics
 
-\- Hobby: Studying data
+- Hobby: Studying data
 
